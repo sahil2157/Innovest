@@ -1,38 +1,36 @@
-##Innovest 🚀 
-Innovest is a platform that connects startups, investors, and the public in one place. It helps entrepreneurs showcase their ideas, get feedback, find funding, and collaborate with mentors and users. 
+# Innovest 🚀  
 
-##✨ Features 
-#🎥 Video meetings & live events 
-#🤖 AI Chatbot for guidance 
-#📰 Share posts & updates 
-#🧪 Product testing with public feedback 
-#📊 Dashboard to track progress 
-#🤝 Collaboration tools for teams 
+Innovest is a platform that connects **startups, investors, and the public** in one place. It helps entrepreneurs showcase their ideas, get feedback, find funding, and collaborate with mentors and users.  
 
-##👥 Who Can Use 
-#Startups – Pitch ideas, find investors, get mentorship 
-#Investors – Discover promising startups & provide funding 
-#Public Users – Test products & give feedback 
-#Educators / Incubators – Mentor and guide startups 
+---
 
-##🛠 Tech Stack 
-#Frontend: React Js, css
-#Backend: Node.js, MongoDB / MySQL 
+## ✨ Features  
+- 🎥 Video meetings & live events  
+- 🤖 AI Chatbot for guidance  
+- 📰 Share posts & updates  
+- 🧪 Product testing with public feedback  
+- 📊 Dashboard to track progress  
+- 🤝 Collaboration tools for teams  
 
-##🚀 Getting Started 
-#Clone the repo 
-git clone https://github.com/yourusername/innovest.git 
-cd innovest 
+---
 
-##Install dependencies 
-npm install 
+## 👥 Who Can Use  
+- **Startups** – Pitch ideas, find investors, get mentorship  
+- **Investors** – Discover promising startups & provide funding  
+- **Public Users** – Test products & give feedback  
+- **Educators / Incubators** – Mentor and guide startups  
 
-##Run the app 
-npm start 
+---
 
-#Open http://localhost:3000 
+## 🛠 Tech Stack  
+- **Frontend:** React.js, CSS  
+- **Backend:** Node.js, MongoDB / MySQL  
 
-##📌 Future Scope 
-#Corporate partnerships Skill training & workshops Global startup-investor network 
+---
 
-##📜 License This project is open-source under the MIT License.give git code
+## 🚀 Getting Started  
+
+### Clone the repo  
+```bash
+git clone https://github.com/yourusername/innovest.git
+cd innovest
